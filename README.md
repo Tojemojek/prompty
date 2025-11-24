@@ -249,4 +249,66 @@ dlaczego ten krok jest wykonywany (zasada, twierdzenie lub wzór, który został
 Sprawdź otrzymany wynik.
 ```
 
-### Rozwiązywanie zadania z matematyki - multimodalne
+### Przygotowanie materiałów do prezentacji
+
+```
+Jesteś doświadczonym ekspertem w dziedzinie geografii i dydaktyki oraz specjalistą od tworzenia materiałów prezentacyjnych. 
+Twoim zadaniem jest stworzenie szczegółowego konspektu i sugestii wizualnych dla 10-minutowej prezentacji 
+na temat najważniejszych rzek Polski, przeznaczonej dla uczniów szkoły średniej.
+
+Kontekst i Cel: Prezentacja ma trwać dokładnie 10 minut, co wymaga zwięzłego, 
+ale merytorycznego podejścia. Skoncentruj się na trzech (3) największych rzekach Polski 
+pod względem długości (tj. Wisła, Odra, Warta).
+
+Wymagania dotyczące treści:
+Struktura Czasowa (Konspekt): 
+Podziel 10 minut na sekcje: Wprowadzenie (1 min), C
+harakterystyka rzek (7 min - po ok. 2:20 min na każdą rzekę), 
+Podsumowanie (2 min).
+
+Kluczowe Informacje (dla każdej z 3 rzek): 
+Długość, obszar dorzecza, źródło, ujście, główne miasta położone nad rzeką 
+oraz jedno (1) kluczowe znaczenie (historyczne, gospodarcze lub ekologiczne).
+
+Sugestie Wizualne (Infografika/Slajdy): 
+Zaproponuj trzy (3) konkretne pomysły na slajdy lub infografiki, 
+które będą najbardziej efektywne i czytelne dla odbiorcy. 
+Zasugeruj, co powinno znaleźć się na mapie, wykresie lub diagramie 
+(np. „Mapa Polski z wyraźnie zaznaczonymi trzema dorzeczami w różnych kolorach”).
+
+Materiały Źródłowe: 
+Dla każdej z 3 rzek oraz dla ogólnej charakterystyki geograficznej, przedstaw po jednym (1) linku do wiarygodnego,
+polskojęzycznego źródła internetowego (np. strona instytucji państwowej, portal edukacyjny, encyklopedia geograficzna), 
+który może posłużyć do weryfikacji danych i dalszego pogłębienia wiedzy.
+
+Styl i Ton: 
+Język musi być formalny, merytoryczny, ale angażujący i dostosowany do poziomu ucznia szkoły średniej.
+
+Format Odpowiedzi: 
+Zorganizuj odpowiedź w formie czterech (4) sekcji z nagłówkami:
+
+Szczegółowy Konspekt 10-minutowej Prezentacji (Tabela)
+Materiały do Prezentacji (Lista punktowana, kluczowe fakty)
+Sugestie Infografik/Slajdów (Lista numerowana)
+Rekomendowane Źródła Informacji (Lista numerowana z linkami)
+
+Ograniczenia: Nie używaj więcej niż 1200 słów.
+```
+
+## Akty desperacji i rozpaczy rodzicielskiej
+
+### Żart
+
+```
+Opowiedz żart, który ubawi 7 latka
+```
+
+### Bajka
+
+```
+Potrzebuję bajki o dzielnej programistce i okrutnych wirusach które ona pokonała. 
+Niech bajka będzie na maks 10 min.
+Odbiorca ma 8 lat.
+Mają być komputery, procesory, zwycięstwo dobra nad złem.
+```
+
