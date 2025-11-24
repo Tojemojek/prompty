@@ -28,8 +28,10 @@ Jak zakwalifikujesz "Wykład o AI to trudny temat"
 
 ```
 Rozwiąż krok po kroku to zadanie na poziomie powstawówki na poziomie podstawówki:
-Pociąg A ruszył o 13:30 ze stacji AAA w kierunku stacji BBB. Jedzie ze stałą prędkością i dojedzie tam za 3h.
-Pociąg B ruszył o 14:00 ze stacji BBB w kierunku stacji AAA. Jedzie ze stałą prędkością i dojedzie tam za 2h.
+Pociąg A ruszył o 13:30 ze stacji AAA w kierunku stacji BBB. 
+Jedzie ze stałą prędkością i dojedzie tam za 3h.
+Pociąg B ruszył o 14:00 ze stacji BBB w kierunku stacji AAA. 
+Jedzie ze stałą prędkością i dojedzie tam za 2h.
 Kiedy pociągi się miną?
 ```
 
@@ -52,8 +54,10 @@ Zrób tabelkę z porównaniem parametrów diody i żarówki wolframowej.
 
 ```
 Rozwiąż na 3 sposoby zadanie a następnie wybierz najlepszą i najprostszą odpowiedź.
-Pociąg A ruszył o 13:30 ze stacji AAA w kierunku stacji BBB. Jedzie ze stałą prędkością i dojedzie tam za 3h.
-Pociąg B ruszył o 14:00 ze stacji BBB w kierunku stacji AAA. Jedzie ze stałą prędkością i dojedzie tam za 2h.
+Pociąg A ruszył o 13:30 ze stacji AAA w kierunku stacji BBB. 
+Jedzie ze stałą prędkością i dojedzie tam za 3h.
+Pociąg B ruszył o 14:00 ze stacji BBB w kierunku stacji AAA. 
+Jedzie ze stałą prędkością i dojedzie tam za 2h.
 Kiedy pociągi się miną?
 ```
 
@@ -65,4 +69,11 @@ Podaj 3 możliwości rozwoju intelektualnego dla dzieci w czasie wycieczki szkol
 
 ```
 Do każdej z możliwości podaj 2 przykłady technik uczenia, które mogą być stosowane
+```
+
+### Meta Prompting
+
+```
+apisz mi super szczegółowego promta do przygotowania zabawy dla dzieci w wieku 8-10 lat.
+Zrób w nim miejsca do uzupełnienia.
 ```
